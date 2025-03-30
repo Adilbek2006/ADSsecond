@@ -3,8 +3,8 @@ package problem1;
 class func {
     /**
      * This method finds the minimum element in an array.
-     * It iterates through all elements once, making its time complexity O(n).
-     *
+     * It iterates through all elements once
+     * time complexity O(n)
      * @param arr The array of numbers.
      * @return The minimum number in the array.
      */
