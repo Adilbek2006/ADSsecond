@@ -1,6 +1,6 @@
 package problem10;
 
-public class func8 {
+public class func10 {
     /**
      * Recursively finds the Greatest Common Divisor of two numbers using the Euclidean algorithm
      * If b == 0, return a (Base case).
